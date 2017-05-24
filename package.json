@@ -1,7 +1,8 @@
 {
   "name": "corbanbrook-fft",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Real valued split radix FFT with inverse.",
+  "main": "src/rfft.js",
   "scripts": {
     "test": "mocha"
   },
